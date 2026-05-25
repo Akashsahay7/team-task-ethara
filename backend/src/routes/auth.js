@@ -28,7 +28,7 @@ router.post('/signup', async (req, res) => {
       name,
       email,
       password,
-      role: email === "ap5754051@gmail.com" ? "Admin" : "Member"
+      role: email === "akashsahay07@gmail.com" ? "Admin" : "Member"
     });
 
     res.status(201).json({

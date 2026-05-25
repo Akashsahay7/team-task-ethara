@@ -6,7 +6,7 @@ A full-stack Team Task Management Web Application built with React, Node.js, Exp
 
 ## 🌐 Live Demo
 
-- 🔗 [Live Demo](https://team-task-manager-production-4f7e.up.railway.app/auth)
+- 🔗 [Live Demo](https://team-task-ethara-production.up.railway.app/auth)
 
 ---
 
@@ -91,7 +91,7 @@ team-task-manager/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/akashparth/team-task-manager.git
+git clone https://github.com/Akashsahay7/team-task-manager.git
 cd team-task-manager
 ```
 
@@ -246,8 +246,10 @@ timestamps: createdAt, updatedAt
 
 ## 👨‍💻 Author
 
-**Akash Pathak**
-- GitHub: [@akashparth](https://github.com/akashparth)
+**Akash Sahay**
+- GitHub: [@Akashsahay](https://github.com/Akashsahay7)
+- Email: akashsahay07@gmail.com
+- LinkedIn: [linkedin](https://www.linkedin.com/in/akash-sahay-46701a252/)
 
 ---
 
